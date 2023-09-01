@@ -98,6 +98,7 @@ Write a code for the following patterns:
     0101
     10101
     ```
+    
 
 12. ```
         1        1
