@@ -105,44 +105,49 @@ Write a code for the following patterns:
     123    321
     1234  4321
     1234554321
-```
+    ```
 
-13.  ```
+13. 
+    ```
     1      
     2 3
     4 5 6
     7 8 9 10
     11 12 13 14 15
-```
+    ```
 
-14. ```
+14. 
+    ```
     A
     AB
     ABC 
     ABCD
     ABCDE
-```
+    ```
 
-15. ```
+15. 
+    ```
     ABCDE 
     ABCD
     ABC 
     AB
     A
-```
+    ```
 
-16. ```
+16. 
+    ```
     A 
     BB
     CCC 
     DDDD
     EEEEE
-```
+    ```
 
-17. ```
+17. 
+    ```
     A 
     BB
     CCC 
     DDDD
     EEEEE
-```
+    ```
