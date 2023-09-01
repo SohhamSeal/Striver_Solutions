@@ -1,4 +1,4 @@
-# Following are the questions that have been discussed inthe striver sheet
+# Following are the questions that have been discussed in the Striver A to Z SDE sheet
 
 Write a code for the following patterns:
 
