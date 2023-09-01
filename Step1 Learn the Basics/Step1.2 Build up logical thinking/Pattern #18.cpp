@@ -2,17 +2,17 @@
 using namespace std;
 
 /*
-A
-AB
-ABC 
-ABCD
-ABCDE 
+E
+DE
+CDE
+BCDE
+ABCDE
 */
 
-class Pattern14{
+class Pattern18{
     int n;
     public:
-        Pattern14(int a)
+        Pattern18(int a)
         {
             n=a;
         }
@@ -20,8 +20,10 @@ class Pattern14{
         {
             for(int i=1;i<=n;i++)
             {
-                for(int j=0;j<i;j++)
-                    cout << (char)(j+'A');
+                for(int j=i;j>=1;j--)
+                {
+                    cout << char('A'+n-j);
+                }
                 cout << endl;
             }
         }
@@ -32,7 +34,7 @@ int main()
     int n;
     cout << "Enter value of n:";
     cin >> n;
-    Pattern14 *obj=new Pattern14(n);
+    Pattern18 *obj=new Pattern18(n);
     obj->display();
     return 0;
 }
