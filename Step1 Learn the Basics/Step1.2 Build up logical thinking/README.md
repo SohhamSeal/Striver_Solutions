@@ -89,16 +89,16 @@ Write a code for the following patterns:
     ***
     **
     *
-   ```
+    ```
 
-11. ```
+11. 
+    ```
     1
     01
     101
     0101
     10101
     ```
-    
 
 12. ```
         1        1
