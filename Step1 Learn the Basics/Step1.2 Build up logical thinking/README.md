@@ -67,7 +67,7 @@ Write a code for the following patterns:
    ```
 
 9. ```  
-        *
+        \*
        ***
       *****
      *******
@@ -79,7 +79,8 @@ Write a code for the following patterns:
         *
    ```
 
-10. ```  *
+10. ```  
+        \*
        ***
       *****
      *******
