@@ -145,9 +145,24 @@ Write a code for the following patterns:
 
 17. 
     ```
-    A 
-    BB
-    CCC 
-    DDDD
-    EEEEE
+        A 
+       ABA
+      ABCBA 
+     ABCDCBA
+    ABCDEDCBA
+    ```
+
+18. ```
+    E
+    DE
+    CDE
+    BCDE
+    ABCDE
+    ```
+
+19. ```
+    **********
+    ****  ****
+    ***    ***
+    *
     ```
