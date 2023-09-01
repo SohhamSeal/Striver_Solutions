@@ -66,7 +66,8 @@ Write a code for the following patterns:
         *
    ```
 
-9. ```  *
+9. ```  
+        *
        ***
       *****
      *******
